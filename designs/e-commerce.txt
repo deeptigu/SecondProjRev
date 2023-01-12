@@ -1,0 +1,9 @@
+https://medium.com/double-pointer/system-design-interview-amazon-flipkart-ebay-or-similar-e-commerce-applications-35a0bc764421
+
+https://www.youtube.com/watch?v=EpASu_1dUdE
+
+https://betterprogramming.pub/design-an-e-commerce-website-from-a-high-level-perspective-184618741ee8
+
+https://www.keboola.com/blog/etl-process-overview
+
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/LSI.html
